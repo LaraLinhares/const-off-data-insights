@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data_raw/
+processed_data/
+venv/
+restricoes_coff_eolicas_consolidado.csv
+restricoes_coff_eolicas_detalhamento_consolidado.csv
+pipeline_execution.py
+
